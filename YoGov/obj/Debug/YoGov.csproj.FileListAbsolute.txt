@@ -1,0 +1,13 @@
+E:\Work\On\YoGov\YoGov\bin\Debug\YoGov.exe.config
+E:\Work\On\YoGov\YoGov\bin\Debug\YoGov.exe
+E:\Work\On\YoGov\YoGov\bin\Debug\YoGov.pdb
+E:\Work\On\YoGov\YoGov\bin\Debug\WebDriver.dll
+E:\Work\On\YoGov\YoGov\bin\Debug\WebDriver.Support.dll
+E:\Work\On\YoGov\YoGov\bin\Debug\WebDriver.xml
+E:\Work\On\YoGov\YoGov\bin\Debug\WebDriver.Support.xml
+E:\Work\On\YoGov\YoGov\obj\Debug\YoGov.csprojResolveAssemblyReference.cache
+E:\Work\On\YoGov\YoGov\obj\Debug\YoGov.Form1.resources
+E:\Work\On\YoGov\YoGov\obj\Debug\YoGov.Properties.Resources.resources
+E:\Work\On\YoGov\YoGov\obj\Debug\YoGov.csproj.GenerateResource.Cache
+E:\Work\On\YoGov\YoGov\obj\Debug\YoGov.exe
+E:\Work\On\YoGov\YoGov\obj\Debug\YoGov.pdb
